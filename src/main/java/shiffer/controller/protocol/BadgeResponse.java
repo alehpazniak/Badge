@@ -6,4 +6,5 @@ import lombok.Data;
 public class BadgeResponse {
     private String name;
     private String category;
+    private String photo;
 }

@@ -16,6 +16,7 @@ public class Badge {
     private long id;
     private String name;
     private String category;
+    private String photo;
 
     @OneToMany(mappedBy = "badge", cascade = CascadeType.ALL)
     private List<StoreBadge> storeBadges;
