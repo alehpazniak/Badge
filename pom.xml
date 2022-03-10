@@ -18,7 +18,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <lombock.version>1.18.16</lombock.version>
+        <lombock.version>1.18.22</lombock.version>
         <hibernate-core.version>6.0.0.Alpha8</hibernate-core.version>
         <org.mapstruct.version>1.4.2.Final</org.mapstruct.version>
     </properties>
